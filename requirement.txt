@@ -1,0 +1,7 @@
+pandas
+numpy
+tushare
+# Add any specific library for your chosen A-share data provider, e.g.:
+# baostock
+# You might need statsmodels if implementing RCGO:
+# statsmodels
